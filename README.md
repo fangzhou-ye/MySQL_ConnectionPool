@@ -1,10 +1,10 @@
 # MySQL_ConnectionPool
-### 压力测试
+### Stress test
 <table>
   <tr>
-    <th>数据量</th>
-    <th>未使用连接池</th>
-    <th>使用连接池</th>
+    <th>query</th>
+    <th>no connection pool</th>
+    <th>with connection pool</th>
   </tr>
   <tr>
     <td>1000</td>
